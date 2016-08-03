@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>topicon.png</file>
+        <file>conf.txt</file>
+        <file>google_maps.html</file>
+    </qresource>
+</RCC>

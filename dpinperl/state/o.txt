@@ -1,0 +1,114 @@
+scheduler:register:person=HASH(0x3ac494)liftevent=HASH(0x30d694)
+scheduler:start
+scheduler:register:user=HASH(0x32a614)
+scheduler:register:user=HASH(0x3ac6f4)
+scheduler:register:user=HASH(0x3acbf4)
+scheduler:register:user=HASH(0x3acc74)
+scheduler:register:user=HASH(0x3accf4)
+lift statewaitingstate=HASH(0x7ab1ac):lift state changed to upstate=HASH(0x3acc84)
+scheduler:register:user=HASH(0x3acb74)
+scheduler:register:user=HASH(0x3aca74)
+upstate:nextflr
+door opened at floor:1
+user entered at:1
+one person getting in, PEOPLE:1
+scheduler:register:user=HASH(0x3ac8f4)
+scheduler:register:user=HASH(0x3ac974)
+scheduler:register:user=HASH(0x3ac9f4)
+lift closed at floor:1
+upstate:nextflr
+door opened at floor:2
+user entered at:2
+one person getting in, PEOPLE:2
+user entered at:2
+one person getting in, PEOPLE:3
+scheduler:register:user=HASH(0x3ac874)
+lift closed at floor:2
+upstate:nextflr
+door opened at floor:3
+user entered at:3
+one person getting in, PEOPLE:4
+user entered at:3
+one person getting in, PEOPLE:5
+user exiting at:3
+one person getting out, PEOPLE:4
+scheduler:register:user=HASH(0x3acaf4)
+user entered at:3
+one person getting in, PEOPLE:5
+person:stop
+lift closed at floor:3
+lift stateupstate=HASH(0x3acc84):lift state changed to fullupstate=HASH(0x3ace74)
+door opened at floor:4
+user entered at:4
+one person getting in, PEOPLE:6
+user exiting at:4
+one person getting out, PEOPLE:5
+user entered at:4
+one person getting in, PEOPLE:6
+lift closed at floor:4
+door opened at floor:5
+user entered at:5
+one person getting in, PEOPLE:7
+user exiting at:5
+one person getting out, PEOPLE:6
+user entered at:5
+one person getting in, PEOPLE:7
+user exiting at:5
+one person getting out, PEOPLE:6
+lift closed at floor:5
+lift statefullupstate=HASH(0x3ace74):lift state changed to fulldownstate=HASH(0x30d644)
+door opened at floor:4
+lift closed at floor:4
+door opened at floor:2
+user exiting at:2
+one person getting out, PEOPLE:5
+lift closed at floor:2
+door opened at floor:1
+user exiting at:1
+one person getting out, PEOPLE:4
+user exiting at:1
+one person getting out, PEOPLE:3
+lift closed at floor:1
+lift statefulldownstate=HASH(0x30d644):lift state changed to downstate=HASH(0x3aca24)
+door opened at floor:0
+user exiting at:0
+one person getting out, PEOPLE:2
+user entered at:0
+one person getting in, PEOPLE:3
+user entered at:0
+one person getting in, PEOPLE:4
+user exiting at:0
+one person getting out, PEOPLE:3
+user exiting at:0
+one person getting out, PEOPLE:2
+lift closed at floor:0
+lift statedownstate=HASH(0x3aca24):lift state changed to upstate=HASH(0x3acc84)
+door opened at floor:0
+lift closed at floor:0
+upstate:nextflr
+door opened at floor:1
+lift closed at floor:1
+upstate:nextflr
+door opened at floor:2
+user exiting at:2
+one person getting out, PEOPLE:1
+lift closed at floor:2
+upstate:nextflr
+door opened at floor:3
+user exiting at:3
+one person getting out, PEOPLE:0
+lift closed at floor:3
+upstate:nextflr
+door opened at floor:4
+lift closed at floor:4
+upstate:nextflr
+door opened at floor:5
+lift closed at floor:5
+lift stateupstate=HASH(0x3acc84):lift state changed to downstate=HASH(0x3aca24)
+door opened at floor:5
+lift closed at floor:5
+door opened at floor:4
+lift closed at floor:4
+door opened at floor:3
+lift closed at floor:3
+lift statedownstate=HASH(0x3aca24):lift state changed to waitingstate=HASH(0x7ab1ac)

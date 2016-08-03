@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>topicon.png</file>
+    <file>install.png</file>
+    <file>lic.txt</file>
+    <file>request.txt</file>
+  </qresource>
+</RCC>
